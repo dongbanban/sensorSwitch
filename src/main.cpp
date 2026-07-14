@@ -26,8 +26,8 @@
 #endif
 
 // ===================== 用户配置 =====================
-const char* WIFI_SSID     = "董班班的phone";
-const char* WIFI_PASSWORD = "11111111";
+const char* WIFI_SSID     = "你的WiFi/热点名";
+const char* WIFI_PASSWORD = "你的WiFi/热点密码";
 const char* HOSTNAME      = "bathroom";
 
 // 引脚
